@@ -7,3 +7,4 @@ def test_total():
 def test_muliply():
     total = pymain.multiply(2,3)
     assert total == 6  
+# test
